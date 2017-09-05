@@ -1,0 +1,12 @@
+c:\Users\Chi\Documents\animoi.list\bin\Debug\netcoreapp2.0\app.db
+c:\Users\Chi\Documents\animoi.list\bin\Debug\netcoreapp2.0\animoi.list.deps.json
+c:\Users\Chi\Documents\animoi.list\bin\Debug\netcoreapp2.0\animoi.list.runtimeconfig.json
+c:\Users\Chi\Documents\animoi.list\bin\Debug\netcoreapp2.0\animoi.list.runtimeconfig.dev.json
+c:\Users\Chi\Documents\animoi.list\bin\Debug\netcoreapp2.0\animoi.list.dll
+c:\Users\Chi\Documents\animoi.list\bin\Debug\netcoreapp2.0\animoi.list.pdb
+c:\Users\Chi\Documents\animoi.list\obj\Debug\netcoreapp2.0\animoi.list.csproj.CoreCompileInputs.cache
+c:\Users\Chi\Documents\animoi.list\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\Users\Chi\Documents\animoi.list\obj\Debug\netcoreapp2.0\animoi.list.AssemblyInfoInputs.cache
+c:\Users\Chi\Documents\animoi.list\obj\Debug\netcoreapp2.0\animoi.list.AssemblyInfo.cs
+c:\Users\Chi\Documents\animoi.list\obj\Debug\netcoreapp2.0\animoi.list.dll
+c:\Users\Chi\Documents\animoi.list\obj\Debug\netcoreapp2.0\animoi.list.pdb
